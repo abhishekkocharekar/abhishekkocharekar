@@ -30,6 +30,11 @@
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
+### Back-End Development
+
+![node js](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 ### Backend as a Service (BaaS)
 
