@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-🎓 I am Abhishek Kocharekar, a **Full Stack Web Developer**. I am Pursuing my **Masters Degree** in **Computer Science & Engineering** and will graduate in **May 2024**.
+🎓 I am Abhishek Kocharekar, a **Full Stack Web Developer**. I am Pursuing my **Masters Degree** in **Computer Science** from **Stevens Institute of Technology** and will graduate in **May 2024**.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **playing chess**, **cubing**, and **touch typing**.
+🎸 Outside the world of tech, I enjoy pushing myself to develop new skills. My hobbies range from **playing guitar**, **playing chess**, **solving cubes**, and **binge watching**.
 
 ## 🛠️ Skills
 
