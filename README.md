@@ -42,6 +42,7 @@
 ![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![typeorm](https://img.shields.io/badge/typeorm-e8372e?style=for-the-badge&logo=typeorm&logoColor=white)
 ![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
+![apoloo](https://img.shields.io/badge/apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
 ![swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 ![stripe](https://img.shields.io/badge/stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![socketdotio](https://img.shields.io/badge/socketio-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
